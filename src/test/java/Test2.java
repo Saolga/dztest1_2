@@ -22,7 +22,7 @@ public class Test2 {
 
     @After
     public void tearDown(){
-        //dr.quit();
+        dr.quit();
     }
 
     @Test
